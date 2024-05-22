@@ -1,23 +1,22 @@
-# Grille de mots
+# Word grid
 
-Ce projet consiste en une simulation de jeux de mots cachés réalisés en langage C et en Python.
-L'objectif est de trouver des mots cachés dans une grille de lettres donnée. Le joueur est invité à saisir les mots qu'il pense trouver dans la grille, et le programme vérifie si les mots sont présents dans la liste des mots cachés.
+This project consists of a simulation of hidden word games made in C language and Python.
+The objective is to find hidden words in a given grid of letters. The player is asked to enter the words he thinks he will find in the grid, and the program checks if the words are present in the list of hidden words.
 
-# À travers cette expérience, j'ai appris plusieurs concepts et techniques de programmation :
+# Through this experience, I learned several programming concepts and techniques:
 
-Manipulation de tableaux multidimensionnels : J'ai utilisé des tableaux bidimensionnels pour représenter la grille de lettres dans les deux versions du programme.
-Cela m'a permis de comprendre comment accéder aux éléments individuels de la grille.
+Manipulating multidimensional arrays: I used two-dimensional arrays to represent the letter grid in both versions of the program.
+This allowed me to understand how to access individual grid elements.
 
-Utilisation de fonctions : J'ai implémenté des fonctions dans les deux versions du programme pour vérifier si un mot donné est présent dans la liste des mots cachés.
-Cela m'a permis de modulariser mon code et de le rendre plus facile à lire et à maintenir.
+Use of functions: I implemented functions in both versions of the program to check if a given word is present in the list of hidden words.
+This allowed me to modularize my code and make it easier to read and maintain.
 
-Interaction avec l'utilisateur : J'ai appris à interagir avec l'utilisateur en affichant des messages à l'écran et en récupérant des entrées utilisateur à l'aide de la fonction scanf en C et de la fonction input en Python. 
-J'ai également fourni des retours d'informations sur les mots cachés trouvés.
+User Interaction: I learned how to interact with the user by displaying messages on the screen and getting user inputs using the scanf function in C and the input function in Python. 
+I also provided feedback on the hidden words found.
 
-Utilisation de bibliothèques standard : En Python, j'ai utilisé des fonctionnalités fournies par la bibliothèque standard, notamment la fonction join pour concaténer les éléments d'une liste et la fonction upper pour convertir les entrées utilisateur en majuscules. 
-En C, j'ai utilisé les bibliothèques standard <stdio.h> et <stdbool.h> pour gérer les entrées/sorties et les valeurs booléennes respectivement.
+Using standard libraries: In Python, I used features provided by the standard library, including the join function to concatenate elements of a list and the upper function to convert user input to uppercase. 
+In C, I used the standard libraries <stdio.h> and <stdbool.h> to handle I/O and boolean values ​​respectively.
 
-Gestion des chaînes de caractères : J'ai manipulé les chaînes de caractères pour comparer les mots cachés entrés par l'utilisateur avec ceux stockés dans la liste des mots cachés. Cela m'a permis de comprendre comment travailler avec des chaînes de caractères en C et en Python.
+Management of character strings: I manipulated the character strings to compare the hidden words entered by the user with those stored in the list of hidden words. This allowed me to understand how to work with strings in C and Python.
 
-En résumé, ce projet m'a offert une expérience pratique pour renforcer mes compétences en programmation en langage C et en Python, ainsi que pour apprendre à utiliser des outils de développement collaboratif comme Git et GitHub. J'ai acquis une meilleure compréhension de la manière dont les programmes peuvent être structurés et développés de manière modulaire, ce qui sera très utile dans mes projets futurs.
-
+In summary, this project gave me hands-on experience to strengthen my programming skills in C and Python, as well as learn how to use collaborative development tools like Git and GitHub. I gained a better understanding of how programs can be structured and developed in a modular way, which will be very useful in my future projects.
